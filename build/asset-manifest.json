@@ -1,0 +1,13 @@
+{
+    "files": {
+      "main.css": "/swiggy/static/css/main.8c17ad51.css",
+      "main.js": "/swiggy/static/js/main.d5dc61aa.js",
+      "index.html": "/swiggy/index.html",
+      "main.8c17ad51.css.map": "/swiggy/static/css/main.8c17ad51.css.map",
+      "main.d5dc61aa.js.map": "/swiggy/static/js/main.d5dc61aa.js.map"
+    },
+    "entrypoints": [
+      "static/css/main.8c17ad51.css",
+      "static/js/main.d5dc61aa.js"
+    ]
+  }
